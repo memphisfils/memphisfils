@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=ARCHITECTE+MLOPS+%26+IA;BUILDING+AUTONOMOUS+AGENTS;FULL+STACK+ENGINEER;AUTOMATION+EXPERT" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1200&height=80&lines=ARCHITECTE+MLOPS+%26+IA;AGENTS+AUTONOMES;INGENIEUR+FULL-STACK;EXPERT+AUTOMATISATION" alt="Typing Animation" />
   </a>
 </div>
 
@@ -15,9 +15,13 @@
   <a href="mailto:filsmemphis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://github.com/memphisfils/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
+</div>
+
+<div align="center">
+  <p><b>J'aide les &eacute;quipes &agrave; industrialiser l'IA en produits fiables, observables et s&eacute;curis&eacute;s.</b></p>
 </div>
 
 <br />
@@ -29,11 +33,11 @@
 ---
 
 <div align="center">
-  <h2>⚡ ABOUT ME</h2>
+  <h2>&#x26A1; &Agrave; PROPOS</h2>
   <p align="center">
-    <b>Architecte de la Robustesse Logicielle & Remediation</b> basé à <i>Fianarantsoa, Madagascar</i>.<br/>
-    Je transforme des prototypes d'IA en <b>solutions d'entreprise robustes, scalables et auditables</b>.<br/>
-    Ma spécialité : <b>GenAIOps</b> & <b>Agentic Workflows</b> (LangGraph, CrewAI).
+    <b>Architecte de la robustesse logicielle &amp; rem&eacute;diation</b> bas&eacute; &agrave; <i>Fianarantsoa, Madagascar</i>.<br/>
+    J'aide les &eacute;quipes &agrave; industrialiser l'IA en <b>solutions robustes, scalables et auditables</b>.<br/>
+    Sp&eacute;cialit&eacute; : <b>GenAIOps</b> &amp; <b>Agentic Workflows</b> (LangGraph, CrewAI).
   </p>
 </div>
 
@@ -49,81 +53,108 @@
 ---
 
 <div align="center">
-  <h2>🛠️ THE POWER STACK 2026</h2>
+  <h2>&#x1F6E0; STACK TECHNIQUE 2026</h2>
   
-  <h3>🤖 AI & MLOps</h3>
+  <h3>&#x1F916; IA &amp; MLOps</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi" />
     <br/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangGraph-FF5722?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/CrewAI-3D3D3D?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   </p>
 
-  <h3>💻 Full Stack & Cloud</h3>
+  <h3>&#x1F4BB; Full Stack &amp; Cloud</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,django,flask" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,docker" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,supabase,mongodb,redis,linux,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,postgres,mongodb,redis" />
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 PROJECT TIMELINE & HIGHLIGHTS</h2>
+  <h2>&#x1F680; PARCOURS &amp; MOMENTS CL&Eacute;S</h2>
 </div>
 
-| Year | Milestone | Impact |
-| :---: | :--- | :--- |
-| **2026** | 🎯 **Target: Google Cloud ML Engineer** | Certification & Expertise avancée |
-| **2025** | 🛠️ **Architecte MLOps Freelance** | *GenAIOps: 50+ contenus/jour, Automated Lead Gen* |
-| **2025** | 🎓 **Master 2 - Ingénierie Informatique** | *Major de promotion, Spécialisation IA* |
-| **2024** | 📊 **Google Data Analytics Cert.** | *Expertise Data Viz & ETL Pipelines* |
-| **2023** | 🏛️ **Développeur Gestion Publique** | *App Laravel/Vue.js pour la Commune Urbaine* |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Ann&eacute;e</th>
+      <th align="left">Jalon</th>
+      <th align="left">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>2026</strong></td>
+      <td>&#x1F3AF; <strong>Objectif : Google Cloud ML Engineer</strong></td>
+      <td>Certification &amp; expertise avanc&eacute;e</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2025</strong></td>
+      <td>&#x1F9E0; <strong>Architecte MLOps Freelance</strong></td>
+      <td><em>GenAIOps : 50+ contenus/jour, lead gen automatis&eacute;</em></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2024</strong></td>
+      <td>&#x1F393; <strong>Master 2 - Ing&eacute;nierie Informatique</strong></td>
+      <td><em>Sp&eacute;cialisation IA, mod&eacute;lisation &amp; data</em></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2023</strong></td>
+      <td>&#x1F4CA; <strong>Google Data Analytics Cert.</strong></td>
+      <td><em>Data viz &amp; pipelines ETL</em></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>2022</strong></td>
+      <td>&#x1F3DB; <strong>D&eacute;veloppeur Gestion Publique</strong></td>
+      <td><em>App Laravel/Vue.js pour la Commune Urbaine</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 <div align="center">
-  <h2>💎 FEATURED REPOSITORIES</h2>
+  <h2>&#x1F48E; PROJETS VEDETTES</h2>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/memphisfils/SkillSwap">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=memphisfils&repo=SkillSwap&theme=onedark&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9&hide_border=true" />
       </a>
       <br />
       <b>SkillSwap</b><br />
-      Plateforme d'échange de compétences & Freelance
+      Plateforme d'&eacute;change de comp&eacute;tences &amp; freelance
     </td>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/memphisfils/Dashboard-Financier-IA">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=memphisfils&repo=Dashboard-Financier-IA&theme=onedark&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9&hide_border=true" />
       </a>
       <br />
       <b>Dashboard Financier IA</b><br />
-      Analyse prédictive temps réel
+      Analyse pr&eacute;dictive en temps r&eacute;el
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/memphisfils/Agent-IA-Local">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=memphisfils&repo=Agent-IA-Local&theme=onedark&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9&hide_border=true" />
       </a>
       <br />
       <b>Agent IA Local</b><br />
-      Workflow sécurisé On-Premise (Ollama)
+      Workflow s&eacute;curis&eacute; on-premise (Ollama)
     </td>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/memphisfils/Systeme-Affiliation-Auto">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=memphisfils&repo=Systeme-Affiliation-Auto&theme=onedark&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9&hide_border=true" />
       </a>
       <br />
-      <b>Systeme Affiliation Auto</b><br />
-      ML pour détection de produits gagnants
+      <b>Syst&egrave;me Affiliation Auto</b><br />
+      ML pour d&eacute;tection de produits gagnants
     </td>
   </tr>
 </table>
@@ -131,17 +162,17 @@
 ---
 
 <div align="center">
-  <h2>🔥 WHAT I'M BUILDING NOW</h2>
+  <h2>&#x1F525; CE QUE JE CONSTRUIS ACTUELLEMENT</h2>
   
   <a href="https://github.com/memphisfils">
-    <img src="https://img.shields.io/badge/Current_Focus-Autonomous_Trading_Bots-00F2FF?style=for-the-badge&logo=robot-framework&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus_Actuel-Bots_de_trading_autonomes-00F2FF?style=for-the-badge&logo=robot-framework&logoColor=black" />
   </a>
   <a href="https://github.com/memphisfils">
-    <img src="https://img.shields.io/badge/Explorations-Quantum_Machine_Learning-9900FF?style=for-the-badge&logo=atom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explorations-Apprentissage_quantique-9900FF?style=for-the-badge&logo=atom&logoColor=white" />
   </a>
   <br/><br/>
   
-  <i>"L'avenir appartient à ceux qui automatisent le présent."</i>
+  <i>"L'avenir appartient &agrave; ceux qui automatisent le pr&eacute;sent."</i>
 </div>
 
 ---
