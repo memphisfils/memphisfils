@@ -48,6 +48,55 @@
 </div>
 
 <div align="center">
+  <h3>&#x2728; HIGHLIGHTS</h3>
+  <p>
+    &bull; Agents IA autonomes &amp; automatisation no-code (n8n, CrewAI)<br/>
+    &bull; RAG/RAGAS : retrieval, &eacute;valuation, garde-fous<br/>
+    &bull; MLOps : CI/CD, observabilit&eacute;, monitoring, d&eacute;ploiements cloud<br/>
+    &bull; Full-Stack ML : APIs, dashboards, data pipelines
+  </p>
+</div>
+
+<div align="center">
+  <h3>&#x1F9F0; SERVICES</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Agents IA &amp; automatisation</b><br/>
+      Workflows multi-plateformes, agents autonomes, no-code<br/>
+      <sub>n8n, CrewAI, LangChain, GPT/Claude/Gemini</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>RAG &amp; assistants</b><br/>
+      Knowledge base, support, screening, &eacute;valuation RAGAS<br/>
+      <sub>Vector DB, RAGAS, monitoring</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>MLOps &amp; Full-Stack ML</b><br/>
+      APIs, CI/CD, dashboards, d&eacute;ploiement cloud<br/>
+      <sub>FastAPI, Docker, GCP/AWS</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>&#x1F4C5; DISPONIBILIT&Eacute;</h3>
+  <p><b>Freelance</b> &middot; Remote &middot; UTC+3 (Madagascar)</p>
+</div>
+
+<!-- TODO: remplacer par Calendly/WhatsApp -->
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Book_a_call-00F2FF?style=for-the-badge&logo=googlemeet&logoColor=black" />
+  </a>
+  <a href="https://wa.me/261342288681">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
   <h3>&#x1F4A1; CE QUE JE LIVRE</h3>
   <p>
     Agents IA autonomes &amp; workflows no-code, RAG/RAGAS &amp; assistants support, pipelines ML d&eacute;ploy&eacute;s (API, CI/CD, monitoring).
@@ -218,6 +267,13 @@
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <h2>&#x1F4AC; T&Eacute;MOIGNAGES</h2>
+  <p><i>T&eacute;moignages disponibles sur demande.</i></p>
+</div>
 
 ---
 
