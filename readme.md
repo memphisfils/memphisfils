@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1200&height=80&lines=ARCHITECTE+MLOPS+%26+IA;AGENTS+AUTONOMES;INGENIEUR+FULL-STACK;EXPERT+AUTOMATISATION" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1200&height=80&lines=AGENTS+IA+%26+GENAI;RAG+%2F+RAGAS;INGENIEUR+FULL-STACK+ML;AUTOMATISATION+NO-CODE" alt="Typing Animation" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Paul%20Fils%20Rasolo&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20Engineering%20%7C%20MLOps%20%7C%20Scalable%20Systems&descAlign=50&descAlignY=60&animation=fadeIn&stroke=000000&strokeWidth=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Paul%20Fils%20Rasolo&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20Agents%20%7C%20GenAI%20%7C%20MLOps&descAlign=50&descAlignY=60&animation=fadeIn&stroke=000000&strokeWidth=0" width="100%" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <p><b>J'aide les &eacute;quipes &agrave; industrialiser l'IA en produits fiables, observables et s&eacute;curis&eacute;s.</b></p>
+  <p><b>J'aide les &eacute;quipes &agrave; industrialiser l'IA &amp; les agents IA en produits fiables, observables et s&eacute;curis&eacute;s.</b></p>
 </div>
 
 <br />
@@ -35,9 +35,9 @@
 <div align="center">
   <h2>&#x26A1; &Agrave; PROPOS</h2>
   <p align="center">
-    <b>Architecte de la robustesse logicielle &amp; rem&eacute;diation</b> bas&eacute; &agrave; <i>Fianarantsoa, Madagascar</i>.<br/>
-    J'aide les &eacute;quipes &agrave; industrialiser l'IA en <b>solutions robustes, scalables et auditables</b>.<br/>
-    Sp&eacute;cialit&eacute; : <b>GenAIOps</b> &amp; <b>Agentic Workflows</b> (LangGraph, CrewAI).
+    <b>Consultant qualit&eacute; logiciel IA &amp; agents autonomes</b> bas&eacute; &agrave; <i>Antananarivo, Madagascar</i>.<br/>
+    J'aide les &eacute;quipes &agrave; industrialiser l'IA en <b>solutions robustes, observables et s&eacute;curis&eacute;es</b>.<br/>
+    Sp&eacute;cialit&eacute;s : <b>RAG/RAGAS</b>, <b>workflows no-code</b> (n8n, CrewAI) &amp; <b>GenAI</b> (LangChain, GPT, Claude, Gemini).
   </p>
 </div>
 
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <h2>&#x1F6E0; STACK TECHNIQUE 2026</h2>
+  <h2>&#x1F6E0; STACK TECHNIQUE </h2>
   
   <h3>&#x1F916; IA &amp; MLOps</h3>
   <p>
@@ -61,6 +61,20 @@
     <br/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  </p>
+
+  <h3>&#x1F916; Agents IA &amp; No-Code</h3>
+  <p>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/CrewAI-22C55E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RAG-64748B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RAGAS-F59E0B?style=for-the-badge" />
+    <br/>
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-F97316?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </p>
 
   <h3>&#x1F4BB; Full Stack &amp; Cloud</h3>
@@ -87,29 +101,24 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>2026</strong></td>
-      <td>&#x1F3AF; <strong>Objectif : Google Cloud ML Engineer</strong></td>
-      <td>Certification &amp; expertise avanc&eacute;e</td>
-    </tr>
-    <tr>
       <td align="center"><strong>2025</strong></td>
-      <td>&#x1F9E0; <strong>Architecte MLOps Freelance</strong></td>
-      <td><em>GenAIOps : 50+ contenus/jour, lead gen automatis&eacute;</em></td>
+      <td>&#x1F9E0; <strong>Consultant qualit&eacute; logiciel IA (freelance)</strong><br/>&#x1F916; <strong>Agents IA no-code &amp; automatisation</strong></td>
+      <td><em>S&eacute;curit&eacute;, architecture, RAG/RAGAS, workflows multicanal</em></td>
     </tr>
     <tr>
       <td align="center"><strong>2024</strong></td>
-      <td>&#x1F393; <strong>Master 2 - Ing&eacute;nierie Informatique</strong></td>
-      <td><em>Sp&eacute;cialisation IA, mod&eacute;lisation &amp; data</em></td>
+      <td>&#x1F680; <strong>D&eacute;veloppeur Full-Stack &amp; ML (projets)</strong><br/>&#x1F393; <strong>Master 2 - Ing&eacute;nierie Informatique</strong></td>
+      <td><em>Backtests, analytics, -35% temps d'analyse (4h &rarr; 2h36)</em></td>
     </tr>
     <tr>
       <td align="center"><strong>2023</strong></td>
-      <td>&#x1F4CA; <strong>Google Data Analytics Cert.</strong></td>
-      <td><em>Data viz &amp; pipelines ETL</em></td>
+      <td>&#x1F3DB; <strong>D&eacute;veloppeur Full-Stack (Stage)</strong></td>
+      <td><em>Digitalisation des ressources hydrauliques (50+ bornes)</em></td>
     </tr>
     <tr>
-      <td align="center"><strong>2022</strong></td>
-      <td>&#x1F3DB; <strong>D&eacute;veloppeur Gestion Publique</strong></td>
-      <td><em>App Laravel/Vue.js pour la Commune Urbaine</em></td>
+      <td align="center"><strong>2021-2022</strong></td>
+      <td>&#x1F5A8;&#xFE0F; <strong>Gestion d'impression multi-format (Stage)</strong></td>
+      <td><em>Workflow de commande &amp; suivi de production</em></td>
     </tr>
   </tbody>
 </table>
@@ -129,6 +138,7 @@
       <br />
       <b>SkillSwap</b><br />
       Plateforme d'&eacute;change de comp&eacute;tences &amp; freelance
+      <br/><sub>23 inscriptions (beta)</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/memphisfils/Dashboard-Financier-IA">
@@ -137,6 +147,7 @@
       <br />
       <b>Dashboard Financier IA</b><br />
       Analyse pr&eacute;dictive en temps r&eacute;el
+      <br/><sub>-35% temps d'analyse (4h &rarr; 2h36)</sub>
     </td>
   </tr>
   <tr>
@@ -146,7 +157,7 @@
       </a>
       <br />
       <b>Agent IA Local</b><br />
-      Workflow s&eacute;curis&eacute; on-premise (Ollama)
+      Agent local : planification &amp; publication multi-plateformes
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/memphisfils/Systeme-Affiliation-Auto">
@@ -154,7 +165,8 @@
       </a>
       <br />
       <b>Syst&egrave;me Affiliation Auto</b><br />
-      ML pour d&eacute;tection de produits gagnants
+      Affiliation automatis&eacute;e &amp; tracking
+      <br/><sub>80 clics/mois (GA4 + UTM)</sub>
     </td>
   </tr>
 </table>
@@ -165,10 +177,13 @@
   <h2>&#x1F525; CE QUE JE CONSTRUIS ACTUELLEMENT</h2>
   
   <a href="https://github.com/memphisfils">
-    <img src="https://img.shields.io/badge/Focus_Actuel-Bots_de_trading_autonomes-00F2FF?style=for-the-badge&logo=robot-framework&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus_Actuel-Agents_IA_No--Code-00F2FF?style=for-the-badge&logo=robot-framework&logoColor=black" />
   </a>
   <a href="https://github.com/memphisfils">
-    <img src="https://img.shields.io/badge/Explorations-Apprentissage_quantique-9900FF?style=for-the-badge&logo=atom&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG_-_RAGAS-Quality_%26_Eval-64748B?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/memphisfils">
+    <img src="https://img.shields.io/badge/Automatisation-Marketing_%26_Support-22C55E?style=for-the-badge" />
   </a>
   <br/><br/>
   
@@ -189,4 +204,4 @@
   </a>
 </div>
 
-<!-- SEO: MLOps, AI Agents, LangChain, CrewAI, Next.js, Python, Automation, Finance, Trading, Madagascar, Developer, Full Stack, Engineer -->
+<!-- SEO: MLOps, AI Agents, GenAI, RAG, RAGAS, LangChain, n8n, CrewAI, Claude, GPT, Gemini, Next.js, Python, Automation, Finance, Madagascar, Developer, Full Stack -->
