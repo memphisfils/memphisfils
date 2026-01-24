@@ -42,6 +42,46 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/MLOps_Engineer-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_Full--Stack_Developer-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents_Builder-F59E0B?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <h3>&#x1F4A1; CE QUE JE LIVRE</h3>
+  <p>
+    Agents IA autonomes &amp; workflows no-code, RAG/RAGAS &amp; assistants support, pipelines ML d&eacute;ploy&eacute;s (API, CI/CD, monitoring).
+  </p>
+</div>
+
+<div align="center">
+  <h3>&#x1F4CA; IMPACTS R&Eacute;CENTS</h3>
+</div>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Projet</th>
+      <th align="left">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FlashBot Forex</td>
+      <td>Backtest 6 mois · Sharpe 1.2 · DD 12%</td>
+    </tr>
+    <tr>
+      <td>ML Financial Analytics</td>
+      <td>-35% temps d'analyse (4h → 2h36)</td>
+    </tr>
+    <tr>
+      <td>Affiliation automatis&eacute;e</td>
+      <td>80 clics/mois (GA4 + UTM)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
   <a href="https://github.com/memphisfils">
     <img src="https://github-readme-stats.vercel.app/api?username=memphisfils&show_icons=true&theme=onedark&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9&hide_border=true" height="180" alt="stats" />
   </a>
@@ -82,6 +122,14 @@
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,docker" />
     <br/>
     <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,postgres,mongodb,redis" />
+  </p>
+
+  <h3>&#x1F6E0; MLOps &amp; Observabilit&eacute;</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,githubactions" />
+    <br/>
+    <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Monitoring-0EA5E9?style=for-the-badge" />
   </p>
 </div>
 
